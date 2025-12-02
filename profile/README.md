@@ -4,7 +4,20 @@
   <img width="289" height="142" alt="AxpoLogo1" src="https://github.com/user-attachments/assets/bcc572b3-86da-4df7-8ba3-03d0145dea84" />
 </div>
 
+<div align="center">
+
+
+
+
+![Colaboración](https://img.shields.io/badge/colaboración-UAH%20×%20Axpo-blueviolet)
+![Año de creación](https://img.shields.io/badge/fundada-2025-lightgrey)
+
+
+
+</div>
+
 ---
+
 
 ## 🌱 Sobre la Cátedra ENERTECH
 
